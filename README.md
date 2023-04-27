@@ -32,7 +32,7 @@ Once you have set up the data, run the program by running the `Main` class. The 
 ## Credits
 
 This program was Ultra🔥created by [MSGB](https://github.com/MedouneSGB)  
-I wanna thanks `ChatGPT` for generating this Readme,  
-Also my copilot `GithubCopilot` for their help.
+I wanna thanks `ChatGPT` for generating this Readme.  
+Also my copilot `GithubCopilot` for his help.
 
 [![Made-In-Senegal](https://github.com/GalsenDev221/made.in.senegal/blob/master/assets/badge.svg)](https://github.com/GalsenDev221/made.in.senegal)  
