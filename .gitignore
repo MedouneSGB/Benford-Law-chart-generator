@@ -1,0 +1,40 @@
+# IntelliJ IDEA
+.idea/
+
+# Compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs and databases
+logs/
+*.log
+*.sqlite
+*.db
+
+# Build output
+out/
+build/
+dist/
+bin/
+
+# Package files
+*.iml
+*.ipr
+*.iws
+*.jpx
+*.jar
+*.war
+*.ear
+.idea_modules/
+
+# Libraries
+lib/
+dependencies/
+*.xml
+
+# Other
+target/
+.idea_modules/
+.DS_Store
