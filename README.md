@@ -4,6 +4,12 @@ This project is a Java program that checks the distribution of the first digits 
 
 The program takes an array of data as input, calculates the distribution of the first digits of the data, and generates a bar chart comparing this distribution to the expected distribution according to Benford's Law. The resulting chart is saved as a PNG image in the `output` folder.
 
+## Example
+
+An example `data` array has been provided in the `TestCase` class. It contains the multiplication results of the numbers 1 to 10. When the `Main` class is run with this data, the resulting bar chart shows that the distribution of the first digits of the multiplication results closely follows Benford's Law.
+
+![chart0](https://user-images.githubusercontent.com/40875400/234796595-7ccb045f-2b9a-4290-af24-e49c6da7ddc4.png)
+
 ## Requirements
 
 - Java Development Kit (JDK) version 8 or higher
@@ -22,12 +28,6 @@ The program takes an array of data as input, calculates the distribution of the 
 To use this program, you can modify the `data` array in the `TestCase` class to contain your own data. The data must be represented as an array of strings, with each string containing a single number.
 
 Once you have set up the data, run the program by running the `Main` class. The resulting bar chart will be saved as a PNG image in the `output` folder.
-
-## Example
-
-An example `data` array has been provided in the `TestCase` class. It contains the multiplication results of the numbers 1 to 10. When the `Main` class is run with this data, the resulting bar chart shows that the distribution of the first digits of the multiplication results closely follows Benford's Law.
-
-![chart0](https://user-images.githubusercontent.com/40875400/234796595-7ccb045f-2b9a-4290-af24-e49c6da7ddc4.png)
 
 ## Credits
 
