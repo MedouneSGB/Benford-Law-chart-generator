@@ -13,7 +13,7 @@ An example `data` array has been provided in the `TestCase` class. It contains t
 ## Requirements
 
 - Java Development Kit (JDK) version 8 or higher
-- JFreeChart library version 1.0.19 or higher
+- [JFreeChart](https://github.com/jfree/jfreechart/tree/v1.5.4) library version 1.0.19 or higher
 
 ## Installation
 
